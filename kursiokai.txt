@@ -1,0 +1,4 @@
+﻿Pavardė     Vardas      ND1  ND2   ND3  ND4  ND5  Egz
+Rytis     Muravjobvas   8    9     10   6    10   9
+Tomas     Marcinkevi    7    10    8    5    4    6
+Lukas     lukasenka   8     8    8    8    4    6
