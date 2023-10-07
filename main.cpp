@@ -1,73 +1,41 @@
-﻿#include "headeris.h"
-char skaiciavimo_strategija = 'v';
+#include "headeris.h"
 int main() {
-	cout << "Kaip skaiciuoti galutini v/m?\n";
-	cin >> skaiciavimo_strategija;
+  std::fstream failas("kursiokai.txt");
 
+  if (!failas.is_open()) {
+    std::cerr << "Failas neatsidare, arba pasirinkote bloga faila." << std::endl;
+    return 1; 
+  }
 
-	cout << "Iveskite studenta:\n";
+  std::vector<studentas> stud_vec; // 
+  std::string eilute;
+  getline(failas, eilute); 
 
-	vector<studentas> grupe;
-	for (int i = 0; i < 1; i++) {
-		studentas K;
-		grupe.push_back(K);
-		K.~studentas();
-	}
-	cout << endl << grupe.size() << endl;
-	printf("|%-10s|%20s|", "Vardas", "Pavarde");
-	for (int i = 0; i < grupe[0].getPazNr(); i++)
-		printf("%s%d|", "ND", i + 1);
-	printf("%10s|\n", "Egzaminas");
-	for (auto& a : grupe) a.printas();
-	cout << endl;
+  while (getline(failas, eilute)) {
+    std::istringstream iss(eilute);
+    std::string Vardas, Pavarde;
+    iss >> Pavarde >> Vardas;
 
-	printf("|%-10s|%20s|", "Vardas", "Pavarde");
-	printf("%10s|\n", skaiciavimo_strategija == 'm' ? "Galutine mediana - m" : "Galuitinis vidurkis v ");
+    int paz;
+    std::vector<int> paz_vec;
+    while (iss >> paz) {
+      paz_vec.push_back(paz);
+    }
 
-	for (auto& a : grupe) a.printasRez(); {
-		cout << endl;
-	}
+    studentas studentas(Vardas, Pavarde, paz_vec);
+    stud_vec.push_back(studentas);
+  }
 
+  failas.close();
 
-	/*std::fstream failas("kursiokai.txt");
+ 
+  std::cout << "Vardas     Pavarde        (Vid.)  (Med.)\n";
+  std::cout << "----------------------------------------------------------\n";
 
-	if (!failas.is_open()) {
-		std::cerr << "Failas neatsidare, arba pasirinkote bloga faila." << std::endl;
-		return 1;
-	}
+ 
+  for (const studentas &stud_adresas : stud_vec) {
+    stud_adresas.printInfo();
+  }
 
-	std::vector<studentas> stud_vec; // 
-	std::string eilute;
-	getline(failas, eilute);
-
-	while (getline(failas, eilute)) {
-		std::istringstream iss(eilute);
-		std::string Vardas, Pavarde;
-		iss >> Pavarde >> Vardas;
-
-		int paz;
-		std::vector<int> paz_vec;
-		while (iss >> paz) {
-			paz_vec.push_back(paz);
-		}
-
-		studentas studentas(Vardas, Pavarde, paz_vec);
-		stud_vec.push_back(studentas);
-	}
-
-	failas.close();
-
-	// Print the header for the table
-	std::cout << "Vardas     Pavarde        (Vid.)  (Med.)\n";
-	std::cout << "----------------------------------------------------------\n";
-
-	// Print student information
-	for (const studentas& stud_adresas : stud_vec) {
-		stud_adresas.printInfo();
-	}
-
-	return 0;*/
-
-
-	system("pause");
+  return 0;
 }
