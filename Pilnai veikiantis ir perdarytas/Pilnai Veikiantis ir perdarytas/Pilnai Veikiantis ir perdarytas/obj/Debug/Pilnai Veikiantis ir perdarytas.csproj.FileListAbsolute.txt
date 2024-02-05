@@ -1,0 +1,22 @@
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\KopijosKopija - Copy (2)\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\bin\Debug\Pilnai Veikiantis ir perdarytas.exe.config
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\KopijosKopija - Copy (2)\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\bin\Debug\Pilnai Veikiantis ir perdarytas.exe
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\KopijosKopija - Copy (2)\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\bin\Debug\Pilnai Veikiantis ir perdarytas.pdb
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\KopijosKopija - Copy (2)\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\obj\Debug\Pilnai Veikiantis ir perdarytas.csproj.AssemblyReference.cache
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\KopijosKopija - Copy (2)\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\obj\Debug\Pilnai Veikiantis ir perdarytas.csproj.SuggestedBindingRedirects.cache
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\KopijosKopija - Copy (2)\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\obj\Debug\Pilnai_Veikiantis_ir_perdarytas.Form1.resources
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\KopijosKopija - Copy (2)\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\obj\Debug\Pilnai_Veikiantis_ir_perdarytas.Properties.Resources.resources
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\KopijosKopija - Copy (2)\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\obj\Debug\Pilnai Veikiantis ir perdarytas.csproj.GenerateResource.cache
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\KopijosKopija - Copy (2)\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\obj\Debug\Pilnai Veikiantis ir perdarytas.csproj.CoreCompileInputs.cache
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\KopijosKopija - Copy (2)\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\obj\Debug\Pilnai Veikiantis ir perdarytas.exe
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\KopijosKopija - Copy (2)\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\obj\Debug\Pilnai Veikiantis ir perdarytas.pdb
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\Pilnai veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\bin\Debug\Pilnai Veikiantis ir perdarytas.exe.config
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\Pilnai veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\bin\Debug\Pilnai Veikiantis ir perdarytas.exe
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\Pilnai veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\bin\Debug\Pilnai Veikiantis ir perdarytas.pdb
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\Pilnai veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\obj\Debug\Pilnai Veikiantis ir perdarytas.csproj.AssemblyReference.cache
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\Pilnai veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\obj\Debug\Pilnai Veikiantis ir perdarytas.csproj.SuggestedBindingRedirects.cache
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\Pilnai veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\obj\Debug\Pilnai_Veikiantis_ir_perdarytas.Form1.resources
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\Pilnai veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\obj\Debug\Pilnai_Veikiantis_ir_perdarytas.Properties.Resources.resources
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\Pilnai veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\obj\Debug\Pilnai Veikiantis ir perdarytas.csproj.GenerateResource.cache
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\Pilnai veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\obj\Debug\Pilnai Veikiantis ir perdarytas.csproj.CoreCompileInputs.cache
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\Pilnai veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\obj\Debug\Pilnai Veikiantis ir perdarytas.exe
+C:\Users\thisi\OneDrive\Stalinis kompiuteris\Pilnai veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\Pilnai Veikiantis ir perdarytas\obj\Debug\Pilnai Veikiantis ir perdarytas.pdb
